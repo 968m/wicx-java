@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UkrainianCadastralExchangeFile>
+  <AdditionalPart>
+    <ServiceInfo>
+      <FileID>
+        <FileDate>2015-02-10</FileDate>
+        <FileGUID>f22ca4f7-1e66-4d1f-89ab-cec610678892</FileGUID>
+      </FileID>
+      <FormatVersion>0.7</FormatVersion>
+      <ReceiverName />
+      <Software>Менеджер Обмінних Файлів</Software>
+      <SoftwareVersion>1.16.0</SoftwareVersion>
+    </ServiceInfo>
+    <InfoLandWork>
+      <Executor>
+        <CompanyName>ДП "Запорізький інститут землеустрою"</CompanyName>
+        <EDRPOU />
+        <License>
+          <LicenseSeries />
+          <LicenseNumber />
+          <LicenseIssuedDate />
+        </License>
+        <Chief>
+          <ChiefName>
+            <LastName />
+            <FirstName />
+          </ChiefName>
+          <ChiefPosition />
+        </Chief>
+        <Executor>
+          <ExecutorName>
+            <LastName />
+            <FirstName />
+          </ExecutorName>
+          <ExecutorPosition />
+          <ContactInfo>
+            <Phone />
+          </ContactInfo>
+        </Executor>
+        <Address>
+          <Country>804</Country>
+          <Region />
+          <District />
+          <Settlement />
+          <Street />
+          <Building />
+        </Address>
+      </Executor>
+    </InfoLandWork>
+  </AdditionalPart>
+  <InfoPart>
+    <MetricInfo>
+      <CoordinateSystem>
+        <SC63>
+          <X></X>
+        </SC63>
+      </CoordinateSystem>
+      <HeightSystem>
+        <Baltic></Baltic>
+      </HeightSystem>
+      <MeasurementUnit>
+        <Other>га</Other>
+      </MeasurementUnit>
+      <PointInfo>
+        <Point>
+          <UIDP>1</UIDP>
+          <PN>1001</PN>
+          <DeterminationMethod>
+            <Survey></Survey>
+          </DeterminationMethod>
+          <X>5228229.23</X>
+          <Y>5250759.11</Y>
+          <MX>0.05</MX>
+          <MY>0.05</MY>
+        </Point>
+        <Point>
+          <UIDP>2</UIDP>
+          <PN>1002</PN>
+          <DeterminationMethod>
+            <Survey></Survey>
+          </DeterminationMethod>
+          <X>5228310.9</X>
+          <Y>5250748.26</Y>
+          <MX>0.05</MX>
+          <MY>0.05</MY>
+        </Point>
+        <Point>
+          <UIDP>3</UIDP>
+          <PN>1003</PN>
+          <DeterminationMethod>
+            <Survey></Survey>
+          </DeterminationMethod>
+          <X>5228407.74</X>
+          <Y>5251477.26</Y>
+          <MX>0.05</MX>
+          <MY>0.05</MY>
+        </Point>
+        <Point>
+          <UIDP>4</UIDP>
+          <PN>1004</PN>
+          <DeterminationMethod>
+            <Survey></Survey>
+          </DeterminationMethod>
+          <X>5228326.14</X>
+          <Y>5251488.63</Y>
+          <MX>0.05</MX>
+          <MY>0.05</MY>
+        </Point>
+        <Point>
+          <UIDP>5</UIDP>
+          <PN>4001</PN>
+          <DeterminationMethod>
+            <Survey></Survey>
+          </DeterminationMethod>
+          <X>5228157.77</X>
+          <Y>5250769.61</Y>
+          <MX>0.05</MX>
+          <MY>0.05</MY>
+        </Point>
+        <Point>
+          <UIDP>6</UIDP>
+          <PN>4004</PN>
+          <DeterminationMethod>
+            <Survey></Survey>
+          </DeterminationMethod>
+          <X>5228390.05</X>
+          <Y>5250737.91</Y>
+          <MX>0.05</MX>
+          <MY>0.05</MY>
+        </Point>
+        <Point>
+          <UIDP>7</UIDP>
+          <PN>5004</PN>
+          <DeterminationMethod>
+            <Survey></Survey>
+          </DeterminationMethod>
+          <X>5228486.99</X>
+          <Y>5251465.84</Y>
+          <MX>0.05</MX>
+          <MY>0.05</MY>
+        </Point>
+        <Point>
+          <UIDP>8</UIDP>
+          <PN>6004</PN>
+          <DeterminationMethod>
+            <Survey></Survey>
+          </DeterminationMethod>
+          <X>5228247.39</X>
+          <Y>5251499.37</Y>
+          <MX>0.05</MX>
+          <MY>0.05</MY>
+        </Point>
+      </PointInfo>
+      <Polyline>
+        <PL>
+          <ULID>1</ULID>
+          <Points>
+            <P>1</P>
+            <P>2</P>
+          </Points>
+          <Length>82.3875682369613</Length>
+        </PL>
+        <PL>
+          <ULID>2</ULID>
+          <Points>
+            <P>5</P>
+            <P>1</P>
+          </Points>
+          <Length>72.2272912417999</Length>
+        </PL>
+        <PL>
+          <ULID>3</ULID>
+          <Points>
+            <P>2</P>
+            <P>3</P>
+          </Points>
+          <Length>735.403960826953</Length>
+        </PL>
+        <PL>
+          <ULID>4</ULID>
+          <Points>
+            <P>2</P>
+            <P>6</P>
+          </Points>
+          <Length>79.8238372912743</Length>
+        </PL>
+        <PL>
+          <ULID>5</ULID>
+          <Points>
+            <P>3</P>
+            <P>4</P>
+          </Points>
+          <Length>82.3883298780461</Length>
+        </PL>
+        <PL>
+          <ULID>6</ULID>
+          <Points>
+            <P>3</P>
+            <P>7</P>
+          </Points>
+          <Length>80.0685887224091</Length>
+        </PL>
+        <PL>
+          <ULID>7</ULID>
+          <Points>
+            <P>4</P>
+            <P>1</P>
+          </Points>
+          <Length>735.928650413337</Length>
+        </PL>
+        <PL>
+          <ULID>8</ULID>
+          <Points>
+            <P>4</P>
+            <P>8</P>
+          </Points>
+          <Length>79.4789915638391</Length>
+        </PL>
+      </Polyline>
+      <ControlPoint>
+        <P>0</P>
+        <P>0</P>
+      </ControlPoint>
+    </MetricInfo>
+    <CadastralZoneInfo>
+      <KOATUU>2320983300</KOATUU>
+      <CadastralZoneNumber>01</CadastralZoneNumber>
+      <CadastralQuarters>
+        <CadastralQuarterInfo>
+          <CadastralQuarterNumber>017</CadastralQuarterNumber>
+          <RegionalContacts>
+            <LocalAuthorityHead>
+              <LastName />
+              <FirstName />
+            </LocalAuthorityHead>
+            <DKZRHead>
+              <LastName />
+              <FirstName />
+            </DKZRHead>
+          </RegionalContacts>
+          <Externals>
+            <Boundary>
+              <Lines>
+                <Line>
+                  <ULID>1</ULID>
+                </Line>
+                <Line>
+                  <ULID>3</ULID>
+                </Line>
+                <Line>
+                  <ULID>5</ULID>
+                </Line>
+                <Line>
+                  <ULID>7</ULID>
+                </Line>
+              </Lines>
+              <Closed>true</Closed>
+            </Boundary>
+          </Externals>
+          <Parcels>
+            <ParcelInfo>
+              <ParcelLocationInfo>
+                <Region>Запорізька область</Region>
+                <Settlement>Малобілозерська сільська рада</Settlement>
+                <District>Василівський район</District>
+                <ParcelLocation>
+                  <Rural></Rural>
+                </ParcelLocation>
+              </ParcelLocationInfo>
+              <CategoryPurposeInfo>
+                <Category>100</Category>
+                <Purpose>Для ведення товарного сільськогосподарського виробництва</Purpose>
+                <Use>Для ведення товарного сільськогосподарського виробництва</Use>
+              </CategoryPurposeInfo>
+              <OwnershipInfo>
+                <Code>100</Code>
+              </OwnershipInfo>
+              <ParcelMetricInfo>
+                <ParcelID>0003</ParcelID>
+                <Area>
+                  <MeasurementUnit>га</MeasurementUnit>
+                  <Size>6.0609</Size>
+                </Area>
+                <Error>0.0059</Error>
+                <Externals>
+                  <Boundary>
+                    <Lines>
+                      <Line>
+                        <ULID>1</ULID>
+                      </Line>
+                      <Line>
+                        <ULID>3</ULID>
+                      </Line>
+                      <Line>
+                        <ULID>5</ULID>
+                      </Line>
+                      <Line>
+                        <ULID>7</ULID>
+                      </Line>
+                    </Lines>
+                    <Closed>true</Closed>
+                  </Boundary>
+                </Externals>
+              </ParcelMetricInfo>
+              <Proprietors>
+                <ProprietorInfo>
+                  <Authentication>
+                    <NaturalPerson>
+                      <FullName>
+                        <LastName>Гулак</LastName>
+                        <FirstName>Іван</FirstName>
+                        <MiddleName>Іванович</MiddleName>
+                      </FullName>
+                      <TaxNumber>2223004990</TaxNumber>
+                      <Passport>
+                        <DocumentType>Паспорт громадянина України</DocumentType>
+                        <PassportNumber>339123</PassportNumber>
+                        <PassportIssuedDate>2001-01-24</PassportIssuedDate>
+                        <IssuanceAuthority>Дніпрорудненським МВМ Василівського РВ УМВС України в Запорізькій області</IssuanceAuthority>
+                        <PassportSeries>СВ</PassportSeries>
+                      </Passport>
+                      <Citizenship>804</Citizenship>
+                      <Address>
+                        <Country>804</Country>
+                        <Region>Запорізька</Region>
+                        <District>Василівський</District>
+                        <Settlement>с. М. Білозерка</Settlement>
+                        <Street>вул. Кірова</Street>
+                        <Building>96</Building>
+                      </Address>
+                    </NaturalPerson>
+                  </Authentication>
+                  <ProprietorCode>20</ProprietorCode>
+                  <PropertyAcquisitionJustification>
+                    <Document>001</Document>
+                    <DocumentDate>2000-11-03</DocumentDate>
+                    <DocumentNumber>119</DocumentNumber>
+                    <ApprovalAuthority>Василівська райдержадміністрація</ApprovalAuthority>
+                  </PropertyAcquisitionJustification>
+                </ProprietorInfo>
+              </Proprietors>
+              <TechnicalDocumentationInfo>
+                <DocumentationType>008</DocumentationType>
+                <DraftingDate />
+                <DocumentList />
+                <DocumentList />
+                <DocumentList />
+              </TechnicalDocumentationInfo>
+              <StateActInfo>
+                <StateActType>2</StateActType>
+                <StateActForm>
+                  <Series>ІІ-ЗП</Series>
+                  <Number>014241</Number>
+                </StateActForm>
+                <StateActRegistrationInfo>
+                  <RegistrationBookNumber>1</RegistrationBookNumber>
+                  <SectionNumber />
+                  <RegistrationNumber>431</RegistrationNumber>
+                  <RegistrationDate>2000-12-05</RegistrationDate>
+                  <RegistrationPersonInfo>
+                    <SignedByName>
+                      <LastName />
+                      <FirstName />
+                    </SignedByName>
+                    <SignedByName>
+                      <LastName />
+                      <FirstName />
+                    </SignedByName>
+                    <SignedByPosition />
+                    <SignedByPosition />
+                    <RegisteredBy>
+                      <LastName />
+                      <FirstName />
+                    </RegisteredBy>
+                    <RegisteredByPosition />
+                  </RegistrationPersonInfo>
+                </StateActRegistrationInfo>
+                <DeliveryDate>2000-12-05</DeliveryDate>
+                <DeliveryPerson>
+                  <NaturalPerson>
+                    <FullName>
+                      <LastName />
+                      <FirstName />
+                    </FullName>
+                    <Passport>
+                      <DocumentType />
+                      <PassportNumber />
+                      <PassportIssuedDate />
+                      <IssuanceAuthority />
+                      <PassportSeries />
+                    </Passport>
+                    <Address>
+                      <Country>804</Country>
+                      <Region />
+                      <District />
+                      <Settlement />
+                      <Street />
+                      <Building />
+                    </Address>
+                  </NaturalPerson>
+                </DeliveryPerson>
+                <EntitlementDocument>
+                  <Document />
+                  <DocumentDate />
+                  <DocumentNumber />
+                </EntitlementDocument>
+              </StateActInfo>
+              <LandsParcel>
+                <LandParcelInfo>
+                  <CadastralCode>-:-</CadastralCode>
+                  <LandCode>05</LandCode>
+                  <MetricInfo>
+                    <Area>
+                      <MeasurementUnit>га</MeasurementUnit>
+                      <Size>6.0609</Size>
+                    </Area>
+                    <Perimeter>1636.11</Perimeter>
+                    <Error>0.0059</Error>
+                    <Externals>
+                      <Boundary>
+                        <Lines>
+                          <Line>
+                            <ULID>1</ULID>
+                          </Line>
+                          <Line>
+                            <ULID>3</ULID>
+                          </Line>
+                          <Line>
+                            <ULID>5</ULID>
+                          </Line>
+                          <Line>
+                            <ULID>7</ULID>
+                          </Line>
+                        </Lines>
+                        <Closed>true</Closed>
+                      </Boundary>
+                    </Externals>
+                  </MetricInfo>
+                </LandParcelInfo>
+              </LandsParcel>
+              <AdjacentUnits>
+                <AdjacentUnitInfo>
+                  <AdjacentBoundary>
+                    <Lines>
+                      <Line>
+                        <ULID>2</ULID>
+                      </Line>
+                      <Line>
+                        <ULID>1</ULID>
+                      </Line>
+                      <Line>
+                        <ULID>4</ULID>
+                      </Line>
+                    </Lines>
+                    <Closed>false</Closed>
+                  </AdjacentBoundary>
+                  <Proprietor>
+                    <LegalEntity>
+                      <Name>Землі державної власності</Name>
+                      <EDRPOU />
+                      <Address>
+                        <Country>804</Country>
+                        <Region />
+                        <District />
+                        <Settlement />
+                        <Street />
+                        <Building />
+                      </Address>
+                    </LegalEntity>
+                  </Proprietor>
+                </AdjacentUnitInfo>
+                <AdjacentUnitInfo>
+                  <AdjacentBoundary>
+                    <Lines>
+                      <Line>
+                        <ULID>4</ULID>
+                        <FP>6</FP>
+                        <TP>2</TP>
+                      </Line>
+                      <Line>
+                        <ULID>3</ULID>
+                      </Line>
+                      <Line>
+                        <ULID>6</ULID>
+                      </Line>
+                    </Lines>
+                    <Closed>false</Closed>
+                  </AdjacentBoundary>
+                  <Proprietor>
+                    <NaturalPerson>
+                      <FullName>
+                        <LastName>Вишник</LastName>
+                        <FirstName>Н</FirstName>
+                        <MiddleName>П</MiddleName>
+                      </FullName>
+                      <Passport>
+                        <DocumentType />
+                        <PassportNumber />
+                        <PassportIssuedDate />
+                        <IssuanceAuthority />
+                        <PassportSeries />
+                      </Passport>
+                      <Address>
+                        <Country>804</Country>
+                        <Region />
+                        <District />
+                        <Settlement />
+                        <Street />
+                        <Building />
+                      </Address>
+                    </NaturalPerson>
+                  </Proprietor>
+                </AdjacentUnitInfo>
+                <AdjacentUnitInfo>
+                  <AdjacentBoundary>
+                    <Lines>
+                      <Line>
+                        <ULID>6</ULID>
+                        <FP>7</FP>
+                        <TP>3</TP>
+                      </Line>
+                      <Line>
+                        <ULID>5</ULID>
+                      </Line>
+                      <Line>
+                        <ULID>8</ULID>
+                      </Line>
+                    </Lines>
+                    <Closed>false</Closed>
+                  </AdjacentBoundary>
+                  <Proprietor>
+                    <LegalEntity>
+                      <Name>Землі державної власності</Name>
+                      <EDRPOU />
+                      <Address>
+                        <Country>804</Country>
+                        <Region />
+                        <District />
+                        <Settlement />
+                        <Street />
+                        <Building />
+                      </Address>
+                    </LegalEntity>
+                  </Proprietor>
+                </AdjacentUnitInfo>
+                <AdjacentUnitInfo>
+                  <AdjacentBoundary>
+                    <Lines>
+                      <Line>
+                        <ULID>8</ULID>
+                        <FP>8</FP>
+                        <TP>4</TP>
+                      </Line>
+                      <Line>
+                        <ULID>7</ULID>
+                      </Line>
+                      <Line>
+                        <ULID>2</ULID>
+                        <FP>1</FP>
+                        <TP>5</TP>
+                      </Line>
+                    </Lines>
+                    <Closed>false</Closed>
+                  </AdjacentBoundary>
+                  <Proprietor>
+                    <NaturalPerson>
+                      <FullName>
+                        <LastName>Кузьменко</LastName>
+                        <FirstName>В</FirstName>
+                        <MiddleName>Н</MiddleName>
+                      </FullName>
+                      <Passport>
+                        <DocumentType />
+                        <PassportNumber />
+                        <PassportIssuedDate />
+                        <IssuanceAuthority />
+                        <PassportSeries />
+                      </Passport>
+                      <Address>
+                        <Country>804</Country>
+                        <Region />
+                        <District />
+                        <Settlement />
+                        <Street />
+                        <Building />
+                      </Address>
+                    </NaturalPerson>
+                  </Proprietor>
+                </AdjacentUnitInfo>
+              </AdjacentUnits>
+            </ParcelInfo>
+          </Parcels>
+        </CadastralQuarterInfo>
+      </CadastralQuarters>
+    </CadastralZoneInfo>
+  </InfoPart>
+</UkrainianCadastralExchangeFile>
